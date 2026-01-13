@@ -6,6 +6,11 @@ MySQL を使用し、画像情報・ユーザー情報を管理しています�
 ---
 
 ## デモ画像
+<img height="300" alt="Image" src="https://github.com/user-attachments/assets/f99e4b06-1794-45fa-90cb-09df75497e51" />
+<img height="300" alt="Image" src="https://github.com/user-attachments/assets/2334b4b7-b52b-4df6-9745-4f4305ac87fd" />
+<img height="300" alt="Image" src="https://github.com/user-attachments/assets/b4aaa154-e743-4bbd-af30-474b0eb2f816" />
+<img height="300" alt="Image" src="https://github.com/user-attachments/assets/79436180-1271-4e28-ad5c-f6f5f060ddb8" />
+<img height="300" alt="Image" src="https://github.com/user-attachments/assets/8b74b536-ae3f-4eed-977a-1b28db2bf547" />
 
 ---
 
@@ -67,12 +72,6 @@ project-root/
 - PDO + プリペアドステートメント
 - htmlspecialchars による XSS 対策
 - セッションチェック
-
----
-
-## 生成AIの利用について
-
-本画像投稿ギャラリーは PHP 学習用として作成しており、一部の HTML レイアウトやデザイン調整に生成AIを活用しています。  
 
 ---
 
